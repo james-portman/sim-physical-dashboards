@@ -560,7 +560,7 @@ void loop() {
 
 
   //    SERIAL.println(".");
-  delay(100);                       // send data per 100ms
+  //delay(100);                       // send data per 100ms
   loops++;
 }
 
